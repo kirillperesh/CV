@@ -715,9 +715,9 @@ body[data-theme="dark"] .section .heading {
   color: rgba(255, 255, 255, 0.9);
 }
 
-body[data-theme="dark"] .experience .item .title {
+/* body[data-theme="dark"] .experience .item .title {
   color: rgba(255, 255, 255, 0.9);
-}
+} */
 
 body[data-theme="dark"] .testimonials .item .quote {
   color: rgba(255, 255, 255, 0.9);
