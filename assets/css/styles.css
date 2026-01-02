@@ -339,6 +339,9 @@ a.dotted-link:hover {
   margin-top: 0;
   margin-bottom: 5px;
   line-height: 1.5;
+}
+
+.experience .item .title a {
   color: #778492;
 }
 
