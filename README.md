@@ -1,1 +1,1 @@
-# [Kirill Pereshitkin's CV](https://kirillperesh.github.io/civil_CV/)
+# [Kirill Pereshitkin's CV](https://kirillperesh.github.io/CV/)
