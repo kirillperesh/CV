@@ -339,6 +339,7 @@ a.dotted-link:hover {
   margin-top: 0;
   margin-bottom: 5px;
   line-height: 1.5;
+  color: #778492;
 }
 
 .experience .item .title .place {
@@ -356,7 +357,7 @@ a.dotted-link:hover {
 
 .experience .item .title .year {
   color: #999;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 /* Git section */
